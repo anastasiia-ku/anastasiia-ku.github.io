@@ -3,7 +3,16 @@ Hey!
 My name is Anastasiia. 
 You can read my full bio on the [About Me](about.md) page.
 
-### Books I Read
+### Books of 2019
+
+* A Thousand Splendid Suns by Khaled Hosseini
+* Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler
+* Strategize: Product Strategy and Product Roadmap Practices for the Digital Age by Roman Pichler
+* Visual Thinking: Empowering People and Organisations Through Visual Collaboration
+Book by Willemien Brand
+* Inspired: How to Create Tech Products Customers Love by Marty Cagan
+
+### Books I Read Long Time Ago
 
 1. Fountainhead by Ayn Rand
 2. 💥 Atlas Shrugged by Ayn Rand

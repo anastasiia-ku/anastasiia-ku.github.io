@@ -1,7 +1,25 @@
 Hey!
 
 My name is Anastasiia. 
-You can read my full bio on the [About Me](about.md) page.
+I am an avid reader which can loose the track of the time while holding a good book. 
+
+### Upcoming Reads of 2020 
+
+* Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
+* TED Talks: The Official TED Guide to Public Speaking by Chris Anderson
+* Design a Better Business: New Tools, Skills, and Mindset for Strategy and Innovation by Justin Lokitz, Lisa Kay Solomon, and Patrick Van Der Pijl
+* Design Sprint by Jake Knapp
+* Ulysses by James Joyce
+* The Book of Laughter and Forgetting by Milan Kundera
+* A Clockwork Orange  by Anthony Burgess
+* Zuleikha Opens Her Eyes by Guzel Yakhina
+* The Doodle Revolution: Unlock the Power to Think Differently by Sunni Brown
+* A Room of One’s Own by Virginia Woolf
+* The power of opposites by  Ichac Adizes
+* An American Tragedy by Theodore Dreiser
+* All the Light We Cannot See by Anthony Doerr
+* Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)
+
 
 ### Books of 2019
 

@@ -29,6 +29,11 @@ I am an avid reader which can loose the track of the time while holding a good b
 * Visual Thinking: Empowering People and Organisations Through Visual Collaboration
 Book by Willemien Brand
 * Inspired: How to Create Tech Products Customers Love by Marty Cagan
+* Shape Up: Stop Running in Circles and Ship Work that Matters by Ryan Singer
+* The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle
+
+
+by Ryan Singer
 
 ### Books I Read Long Time Ago
 

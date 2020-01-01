@@ -1,2 +1,2 @@
 # anastasiia-ku.github.io
-I am an avid book reader.
+Personal website about books I read.

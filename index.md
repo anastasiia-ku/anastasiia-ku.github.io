@@ -1,4 +1,4 @@
-Hey! :wave:
+Hey!
 
 My name is Anastasiia. 
 You can read my full bio on the [About Me](about.md) page.

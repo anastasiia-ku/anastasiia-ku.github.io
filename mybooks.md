@@ -1,4 +1,4 @@
-I am an avid reader which can loose the track of the time while holding a good book. 
+I am an avid reader which can lose the track of the time while holding a good book. 
 
 ### Upcoming Reads of 2020 
 

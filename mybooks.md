@@ -30,8 +30,6 @@ Book by Willemien Brand
 * The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle
 
 
-by Ryan Singer
-
 ### Books I Read Long Time Ago
 
 1. Fountainhead by Ayn Rand

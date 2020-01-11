@@ -3,6 +3,7 @@ I am an avid reader which can lose the track of the time while holding a good bo
 ### Upcoming Reads of 2020 
 
 * Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
+* Atomic Habits by James Clear
 * TED Talks: The Official TED Guide to Public Speaking by Chris Anderson
 * Design a Better Business: New Tools, Skills, and Mindset for Strategy and Innovation by Justin Lokitz, Lisa Kay Solomon, and Patrick Van Der Pijl
 * Design Sprint by Jake Knapp
@@ -53,7 +54,7 @@ Book by Willemien Brand
 13. The Handmaid’s Tale by Margaret Atwood
 14. Good Wives  by Louisa May Alcott
 15. The Trial by Franz Kafka
-16. The Picture of Dorian Gray  by Oscar Wilde
+16. The Picture of Dorian Gray by Oscar Wilde
 17. The Shadow of the Wind  by Carlos Ruiz Zafón
 18. To Kill a Mockingbird by Harper Lee
 19. Beloved by Toni Morrison

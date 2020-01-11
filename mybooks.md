@@ -18,6 +18,12 @@ I am an avid reader which can lose the track of the time while holding a good bo
 * Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)
 
 
+### Books of 2020
+
+* Hunting and Gathering by Anna Gavalda
+* The Kite Runner by Khaled Hosseini
+* Ikigai: The Japanese Secret to a Long and Happy Life by Albert Liebermann and Hector Garcia
+
 ### Books of 2019
 
 * A Thousand Splendid Suns by Khaled Hosseini

@@ -1,4 +1,4 @@
-![stage](https://github.com/anastasiia-ku/anastasiia-ku.github.io/blob/master/images/backgroundimage.png)
+![stage](images/backgroundimage.png)
 
 
 ### Books I plan to read in 2020

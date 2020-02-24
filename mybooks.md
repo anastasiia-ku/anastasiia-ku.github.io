@@ -1,4 +1,4 @@
-![stage](images/backgroundimage.png)
+![stage](images/backgroundimage.jpg)
 
 
 ### Books I plan to read in 2020

@@ -1,3 +1,6 @@
+![stage](https://github.com/anastasiia-ku/anastasiia-ku.github.io/blob/master/images/backgroundimage.jpg)
+
+
 ### Books I plan to read in 2020
 
 * Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner

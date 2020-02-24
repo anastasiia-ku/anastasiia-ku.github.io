@@ -1,5 +1,3 @@
-I am an avid reader which can lose the track of the time while holding a good book. 
-
 ### Upcoming Reads of 2020 
 
 * Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
@@ -16,16 +14,20 @@ I am an avid reader which can lose the track of the time while holding a good bo
 * The power of opposites by  Ichac Adizes
 * An American Tragedy by Theodore Dreiser
 * All the Light We Cannot See by Anthony Doerr
-* Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)
 
 
-### Books of 2020
+### 2020: Where I've got so far
 
 * Hunting and Gathering by Anna Gavalda
 * The Kite Runner by Khaled Hosseini
 * Ikigai: The Japanese Secret to a Long and Happy Life by Albert Liebermann and Hector Garcia
+* The Five Dysfunctions of a Team: A Leadership Fable by Patrick M. Lencioni
+* Make Time: How to focus on what matters every day by Jake Knapp
+* The Rosie Project  by Graeme Simsion
+* Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships by Marshall B. Rosenberg
 
-### Books of 2019
+
+### 2019: Reading List
 
 * A Thousand Splendid Suns by Khaled Hosseini
 * Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler
@@ -45,7 +47,7 @@ Book by Willemien Brand
 4. Shantaram by Gregory David Roberts
 5. Midnight’s Children  by Salman Rushdie
 6. Extremely Loud & Incredibly Close by  Jonathan Safran Foer
-7. Radical Candor by Kim Scott
+7. Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity by Kim Scott
 8. The Grapes of Wrath by John Steinbeck
 9. Perfume: The Story of a Murderer by Patrick Süskind
 10. Nineteen Eighty-Four by George Orwell

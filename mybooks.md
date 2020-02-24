@@ -1,4 +1,4 @@
-### Upcoming Reads of 2020 
+### Books I plan to read in 2020
 
 * Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
 * Atomic Habits by James Clear

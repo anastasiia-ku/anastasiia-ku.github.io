@@ -4,48 +4,65 @@
 ![stage](images/backgroundimage.jpg)
 
 
-### Books I plan to read in 2020
+## Books I plan to read in 2020
 
-* Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
-* Atomic Habits by James Clear
-* TED Talks: The Official TED Guide to Public Speaking by Chris Anderson
+### Product Management
 * Design a Better Business: New Tools, Skills, and Mindset for Strategy and Innovation by Justin Lokitz, Lisa Kay Solomon, and Patrick Van Der Pijl
 * Design Sprint by Jake Knapp
-* Ulysses by James Joyce
+
+### Self Development
+* Atomic Habits by James Clear
+* TED Talks: The Official TED Guide to Public Speaking by Chris Anderson
+* The Doodle Revolution: Unlock the Power to Think Differently by Sunni Brown
+
+### Non-fiction
+
 * The Book of Laughter and Forgetting by Milan Kundera
 * A Clockwork Orange  by Anthony Burgess
 * Zuleikha Opens Her Eyes by Guzel Yakhina
-* The Doodle Revolution: Unlock the Power to Think Differently by Sunni Brown
 * A Room of One’s Own by Virginia Woolf
 * The power of opposites by  Ichac Adizes
 * An American Tragedy by Theodore Dreiser
 * All the Light We Cannot See by Anthony Doerr
 
 
-### 2020: Where I've got so far
+## 2020: Books I have read
 
+### Product Management
+* The Five Dysfunctions of a Team: A Leadership Fable by Patrick M. Lencioni
+
+
+### Self Development
+* Ikigai: The Japanese Secret to a Long and Happy Life by Albert Liebermann and Hector Garcia
+* Make Time: How to focus on what matters every day by Jake Knapp
+* Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships by Marshall B. Rosenberg
+* Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
+
+### Non-fiction
 * Hunting and Gathering by Anna Gavalda
 * The Kite Runner by Khaled Hosseini
-* Ikigai: The Japanese Secret to a Long and Happy Life by Albert Liebermann and Hector Garcia
-* The Five Dysfunctions of a Team: A Leadership Fable by Patrick M. Lencioni
-* Make Time: How to focus on what matters every day by Jake Knapp
 * The Rosie Project  by Graeme Simsion
-* Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships by Marshall B. Rosenberg
 
 
-### 2019: Reading List
 
-* A Thousand Splendid Suns by Khaled Hosseini
+## 2019: Reading List
+
+### Product Management
+
 * Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler
 * Strategize: Product Strategy and Product Roadmap Practices for the Digital Age by Roman Pichler
 * Visual Thinking: Empowering People and Organisations Through Visual Collaboration
 Book by Willemien Brand
 * Inspired: How to Create Tech Products Customers Love by Marty Cagan
-* Shape Up: Stop Running in Circles and Ship Work that Matters by Ryan Singer
+* Shape Up : Stop Running in Circles and Ship Work that Matters by Ryan Singer
 * The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle
 
+### Non-fiction
 
-### Books I Read Long Time Ago
+* A Thousand Splendid Suns by Khaled Hosseini
+
+
+## Books I Read Long Time Ago
 
 1. Fountainhead by Ayn Rand
 2. 💥 Atlas Shrugged by Ayn Rand
@@ -66,7 +83,7 @@ Book by Willemien Brand
 17. The Shadow of the Wind  by Carlos Ruiz Zafón
 18. To Kill a Mockingbird by Harper Lee
 19. Beloved by Toni Morrison
-20. The Master and Margarita 
+20. The Master and Margarita by Mikhail Bulgakov
 21. A Young Doctor’s Notebook by Mikhail Bulgakov
 22. Tender is the Night by F. Scott Fitzgerald
 23. Arch of Triumph by Erich Maria Remarque
@@ -84,4 +101,4 @@ Book by Willemien Brand
 35. Norwegian Wood by Haruki Murakami
 36. Inferno Novel by Dan Brown
 37. The Empire of the Angels  by Bernard Werber
-38. Nous les Dieux  by Bernard Werber
+38. Nous les Dieux  by Bernard Werbe

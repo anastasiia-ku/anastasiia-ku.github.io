@@ -51,7 +51,7 @@
 * Visual Thinking: Empowering People and Organisations Through Visual Collaboration
 Book by Willemien Brand
 * Inspired: How to Create Tech Products Customers Love by Marty Cagan
-* Shape Up: Stop Running in Circles and Ship Work that Matters by Ryan Singer
+* Shape Up : Stop Running in Circles and Ship Work that Matters by Ryan Singer
 * The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle
 
 ### Non-fiction

@@ -1,3 +1,7 @@
+# How to become a reliable life coach for your kid. 
+
+## Review of the book Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
+
 I got interested in reading this book after seeing the recommendation in Bill Gates blog. As well, the name and description sounded promising and tempted my curiosity. I have not been into the topic of raising the kids yet. However, I felt that gaining some knowledge in advance can be helpful. 
 
 The book gives a fantastic overview of self-development framework for kids which is as well perfectly applies to adults. While reading, I noticed multiple similar points between raising a kid and developing a strong team. Not everyone was able to get advanced mentoring during their lifetime, and sometimes even adults need to learn about self-awareness and self-direction. 
@@ -8,19 +12,19 @@ Kids need to be knowledgeable in making the decisions to start life by themselve
 
 I want to give an overview of the ideas that had the most significant influence on me. I might admit some of them are worth printing out and be placed on the wall in every room with at least one adult present.
 
-## Building healthy relationships with peers instead of leaving the conflict.
+#### Building healthy relationships with peers instead of leaving the conflict.
 
 Learning how to find ways to collaborate with people whom you may not like from the first sight is a key to successful community integration. It may seem from the first sight that separating and encapsulating yourself in a bubble from peers you are not a fan of is a good idea.  Teamwork is an essential skill to succeed and to have a healthy social life. At Sumit, kids are offered to work on projects together with the other students. Often, the group is mixed, and students need to learn how to form a team out of a group of people. Usually, it happens that collaborations do not ignite immediately, and kids would prefer to work either alone or with somebody else. However, going away from an uncomfortable person or encapsulating yourself in individual work style is not the key to removing the tension. On the opposite, it will not help to build secure connections with other people in the future. 
 Kids need to learn how to identify each other strong sides and notice the skills or opinions of others which do matter and have the value in a given project. 
 Sharing the similarities, exploring past experiences, asking to bring all opinions on the table - that is what matters. 
 
-## Goal settings, planning and personal strategy development 
+#### Goal settings, planning and personal strategy development 
 These are the skills which seem to be essential in the adult world. These are the skills which are crucial during the recruitment process.  We all hope our teammates or employees are empowered in self-organisation and planning.  I admired the example about the students who organised themselves a class of chemistry to prepare for an exam. In 9th grade, they were able to compile the learning plan, set the goals to track the success, find the other students who would be ready to teach them or willing to learn. While I was reading it, I was thinking that a kid can't do it. It sounded perfect. However, Diane gives the transparent system of how to help to develop such skills. She explains how they organise the process at Summit from Day 1, so these skills training are incorporated naturally.  
 
-## Co-creation experience at an early age - Mascot project 
+#### Co-creation experience at an early age - Mascot project 
 Often, to get something up and running, we need to team up with other people. The process does not always go smooth, since each of us may have different preferences and opinions. However, bargaining about views and personal preferences does not bring any value, neither to us not to a world. It is crucial to understand how to create a product, service or impact, which will be compelling for everyone else who worked, serve the initial purpose and unite people around it. At Sumit one of such projects was to create the Mascot for a school. I would imagine it to be a complete mess due to so many stakeholders involved and so passionate kids opinions.  The framework suggested by Sumit appealed a lot to me and gave the inspiration for future usage at work. Kids were asked to work in a team and come up with the suggestions for the Mascot. Afterwards, teams needed to agree on which of the mascots will be the one. This isn't easy even in the adult world. The framework includes the open discussion of the strength and weaknesses of each suggestion and natural agreement and buy-in from everyone for one choice.  How to pick up the option which will be fulfilling the requirement s and motivate a big group of people. Pitch project and make sure you persuade and get the buy-in from your peers.
 
-## Finding the way to ignite the passion spark 
+#### Finding the way to ignite the passion spark 
 It is never easy to find the one true calling. In fact, there can be multiple of them, different at different ages, moods and environments. The only thing that matters is the search process, it is crucial to get exposed to as many life opportunities as possible during the lifetime. We never know which activity can ignite the spark or give a hint on what it is worth to pursue. The framework used in Sumit School is Expose, Explore, Pursue. It teaches us to provide the kids with the chance to explore various interests and activities. Parents and teachers need to show the variety of things this world is offering. It is ok if a kid does not stick long enough to one particular activity. They need to have a chance to try something else if the first choice wasn't the exact match. 
 
 ## Identifying the "ings."

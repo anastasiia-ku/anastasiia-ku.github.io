@@ -3,8 +3,13 @@
 
 ![stage](images/backgroundimage.jpg)
 
+# Check out the book reviews: 
 
-## Books I plan to read in 2020
+
+* [Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner](https://github.com/anastasiia-ku/anastasiia-ku.github.io/blob/master/prepared.md)
+
+
+## Reading List 2020
 
 ### Product Management
 * Design a Better Business: New Tools, Skills, and Mindset for Strategy and Innovation by Justin Lokitz, Lisa Kay Solomon, and Patrick Van Der Pijl

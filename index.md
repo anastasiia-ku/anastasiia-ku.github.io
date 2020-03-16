@@ -6,7 +6,7 @@
 # Check out the book reviews: 
 
 
-* [Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner](https://github.com/anastasiia-ku/anastasiia-ku.github.io/blob/master/prepared.md)
+[Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner](https://github.com/anastasiia-ku/anastasiia-ku.github.io/blob/master/prepared.md)
 
 
 ## Reading List 2020

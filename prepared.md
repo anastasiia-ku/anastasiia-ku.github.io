@@ -27,9 +27,9 @@ Often, to get something up and running, we need to team up with other people. Th
 #### Finding the way to ignite the passion spark 
 It is never easy to find the one true calling. In fact, there can be multiple of them, different at different ages, moods and environments. The only thing that matters is the search process, it is crucial to get exposed to as many life opportunities as possible during the lifetime. We never know which activity can ignite the spark or give a hint on what it is worth to pursue. The framework used in Sumit School is Expose, Explore, Pursue. It teaches us to provide the kids with the chance to explore various interests and activities. Parents and teachers need to show the variety of things this world is offering. It is ok if a kid does not stick long enough to one particular activity. They need to have a chance to try something else if the first choice wasn't the exact match. 
 
-## Identifying the "ings."
+#### Identifying the "ings."
 The one guiding principle in searching for true calling is to find what you enjoy doing. Often, direct questions like "What you want to be when you grow up" will not end up in productive conversation, however, identifying the processes the kid enjoys will help the parent to guide to a correct path. 
 
-## Being a Mentor and Coach for a Kid 
+#### Being a Mentor and Coach for a Kid 
 
 For many years I  looked at the role of a parent more as a  life long mentor and coach rather than a disciplinary controller. The book gave me a precise recipe on how to do it. I see myself getting back to it quite often over the next few years for a bit of advice and guidelines. 

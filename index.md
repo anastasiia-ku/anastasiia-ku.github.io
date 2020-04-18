@@ -9,14 +9,13 @@
 [Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner](https://medium.com/@anakuti/thoughts-on-the-book-prepared-how-to-prepare-kids-for-life-by-diane-tavenner-b25925780ca0)
 
 
-## Reading List 2020
+## Books I plan to read in 2020
 
 ### Product Management
 * Design a Better Business: New Tools, Skills, and Mindset for Strategy and Innovation by Justin Lokitz, Lisa Kay Solomon, and Patrick Van Der Pijl
 * Design Sprint by Jake Knapp
 
 ### Self Development
-* Atomic Habits by James Clear
 * TED Talks: The Official TED Guide to Public Speaking by Chris Anderson
 * The Doodle Revolution: Unlock the Power to Think Differently by Sunni Brown
 
@@ -24,14 +23,14 @@
 
 * The Book of Laughter and Forgetting by Milan Kundera
 * A Clockwork Orange  by Anthony Burgess
-* Zuleikha Opens Her Eyes by Guzel Yakhina
+
 * A Room of One’s Own by Virginia Woolf
 * The power of opposites by  Ichac Adizes
 * An American Tragedy by Theodore Dreiser
 * All the Light We Cannot See by Anthony Doerr
 
 
-## 2020: Books I have read
+## 2020: Books I finished
 
 ### Product Management
 * The Five Dysfunctions of a Team: A Leadership Fable by Patrick M. Lencioni
@@ -42,11 +41,13 @@
 * Make Time: How to focus on what matters every day by Jake Knapp
 * Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships by Marshall B. Rosenberg
 * Prepared: What Kids Need for a Fulfilled Life by Diane Tavenner
+* Atomic Habits by James Clear
 
 ### Non-fiction
 * Hunting and Gathering by Anna Gavalda
 * The Kite Runner by Khaled Hosseini
 * The Rosie Project  by Graeme Simsion
+* Zuleikha Opens Her Eyes by Guzel Yakhina
 
 
 
